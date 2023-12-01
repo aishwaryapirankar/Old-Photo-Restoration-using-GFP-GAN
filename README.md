@@ -16,10 +16,3 @@ This project leverages the power of Generative Adversarial Networks (GANs), spec
 ### Prerequisites
 
 - Python 
-
-### Installation Steps
-
-1. Clone the repository: `git clone https://github.com/aishwaryapirankar/old-photo-restoration.git`
-2. Change to project directory: `cd old-photo-restoration`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run the application: `python app.py`
